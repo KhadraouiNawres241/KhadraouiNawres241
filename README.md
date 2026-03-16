@@ -16,5 +16,5 @@ I’m currently building personal data analysis projects to strengthen my practi
  ● [Google Data Analytics Professional Certificate](https://coursera.org/share/f1fc61d5129d4eabae60be4726359a21) (February 2026) (Coursera - Google)
 
 ## Contact
- ● [🔗LinkedIn: ](www.linkedin.com/in/khadraoui-nawres-8339bb278)
- ● [📧Email: ](khadraouinawres21@gmail.com)
+ ● 🔗LinkedIn: [linkedIn](www.linkedin.com/in/khadraoui-nawres-8339bb278)
+ ● 📧Email: [email](khadraouinawres21@gmail.com)
