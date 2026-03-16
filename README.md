@@ -24,5 +24,5 @@ Results: .
  ● [Geospatial Analysis](https://www.kaggle.com/learn/certification/khadraouinawres/geospatial-analysis) (February 2026) (Kaggle)
  
 ## Contact
- ● 🔗LinkedIn: [@Khadraoui_Nawres](www.linkedin.com/in/khadraoui-nawres-8339bb278/)  
+ ● 🔗LinkedIn: [@Khadraoui_Nawres](https://www.linkedin.com/in/khadraoui-nawres-8339bb278)  
  ● 📧Email: [khadraouinawres21@gmail.com](khadraouinawres21@gmail.com)
