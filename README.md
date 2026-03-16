@@ -9,7 +9,7 @@ I enjoy working with data, cleaning it, analyzing it, and creating visualization
 I’m currently building personal data analysis projects to strengthen my practical experience and apply my analytical and problem-solving skills to support data-driven decisions and contribute to meaningful improvements through impactful analysis.
 
 <!--📄My Resume ("C:\Users\lenovo\Downloads\CV Document\Khadraoui_Nawres_Resume.pdf")-->
-My Resume (www.linkedin.com/in/khadraoui-nawres-8339bb278)
+[My Resume](www.linkedin.com/in/khadraoui-nawres-8339bb278)
 
 ## 📁 Portfolio Projects
 
