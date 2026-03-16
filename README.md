@@ -1,7 +1,6 @@
 ## 𝐊𝐡𝐚𝐝𝐫𝐚𝐨𝐮𝐢 𝐍𝐚𝐰𝐫𝐞𝐬 | 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐭 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭 📊
 
-## Welcome to my profile 👋
-## About me
+## Welcome to my profile 👋  ## About me
 
 Hi, I'm Nawres! I'm a Junior Data Analyst. I have a Bachelor’s degree in Computer Science.
 I enjoy working with data, cleaning it, analyzing it, and creating visualizations that make insights easy to understand.
