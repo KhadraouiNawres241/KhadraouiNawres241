@@ -25,4 +25,4 @@ Results: .
  
 ## Contact
  ● 🔗LinkedIn: [@Khadraoui_Nawres](https://www.linkedin.com/in/khadraoui-nawres-8339bb278)  
- ● 📧Email: [khadraouinawres21@gmail.com](khadraouinawres21@gmail.com)
+ ● 📧Email: [khadraouinawres21@gmail.com](mailto:khadraouinawres21@gmail.com)
