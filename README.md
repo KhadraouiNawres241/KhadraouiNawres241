@@ -20,8 +20,8 @@ Tools : .
 Results: .  
 
 ## 🎓 Certifications
- ● [Google Data Analytics Professional Certificate](https://coursera.org/share/f1fc61d5129d4eabae60be4726359a21) (February 2026) (Coursera - Google)
- ● [Data Analysis Using Python](https://coursera.org/share/128b67b605000576b8900159090bcc48) (February 2026) (Coursera - Google)
+ ● [Google Data Analytics Professional Certificate](https://coursera.org/share/f1fc61d5129d4eabae60be4726359a21) (February 2026) (Coursera - Google)  
+ ● [Data Analysis Using Python](https://coursera.org/share/128b67b605000576b8900159090bcc48) (February 2026) (Coursera - Google)  
  ● [Geospatial Analysis](https://www.kaggle.com/learn/certification/khadraouinawres/geospatial-analysis) (February 2026) (Kaggle)
  
 ## Contact
