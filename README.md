@@ -8,10 +8,17 @@ I enjoy working with data, cleaning it, analyzing it, and creating visualization
 
 I’m currently building personal data analysis projects to strengthen my practical experience and apply my analytical and problem-solving skills to support data-driven decisions and contribute to meaningful improvements through impactful analysis.
 
-[📄My Resume]("C:\Users\lenovo\Downloads\CV Document\Khadraoui_Nawres_Resume.pdf")
+[📄My Resume]("C:\Users\lenovo\Downloads\CV Document\Khadraoui_Nawres_Resume.pdf") Put CV here
 
 
 ## 📁 Portfolio Projects
+Name of the Project
+Code: Lien
+Goal: 
+Description: 
+Skills: 
+Tools : 
+Results:
 
 ## 🎓 Certifications
  ● [Google Data Analytics Professional Certificate](https://coursera.org/share/f1fc61d5129d4eabae60be4726359a21) (February 2026) (Coursera - Google)
